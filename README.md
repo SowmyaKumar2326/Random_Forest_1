@@ -1,5 +1,6 @@
 # Random_Forest_1
 Random forest is a commonly-used machine learning algorithm trademarked by Leo Breiman and Adele Cutler, which combines the output of multiple decision trees to reach a single result. Its ease of use and flexibility have fueled its adoption, as it handles both classification and regression problems.
+## Data importing and hadelling null values
 This document outlines the end-to-end process of analyzing a dataset from a cloth manufacturing company. The primary objective is to check how the sales are going on , with the 'Sales' column as the dependent variable and the remaining columns as independent variables.
 Data Preprocessing:Importing Necessary Packages and Extracting Data
 Importing Necessary Packages and Extracting Data:The initial step involved importing essential Python packages and extracting the company data.
